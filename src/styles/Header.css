@@ -1,0 +1,13 @@
+.header {
+  background-color: rgb(255,0,0);
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.header-content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 20px;
+}

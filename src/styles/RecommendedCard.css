@@ -1,0 +1,17 @@
+.recommended-image {
+  border-radius: 6px;
+  height: 200px;
+  max-width: 300px;
+  width: 100%;
+}
+
+.recommended-card {
+  background-color: rgba(216, 216, 216, 0.5);
+  border-radius: 6px;
+  box-shadow: 1px 1px 5px rgb(141, 141, 141);
+  color: black;
+  font-weight: 600;
+  margin: 20px;
+  padding: 10px 30px 20px;
+  text-align: center;
+}
